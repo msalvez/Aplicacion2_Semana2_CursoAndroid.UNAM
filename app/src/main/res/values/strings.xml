@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">aplicacionTres</string>
+    <string name="nombre">Nombre</string>
+    <string name="fecha">Fecha de nacimiento</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción del contacto</string>
+    <string name="boton">Siguiente</string>
+    <string name="ingresarFecha">Ingresar fecha</string>
+    <string name="obtenerfecha">Obtener fecha</string>
+    <string name="confirmarDatos">Confirmar Datos</string>
+    <string name="editarNombre">Mathias Alvez</string>
+    <string name="editarFecha">04/05/1991</string>
+    <string name="editarTelefono">092564184</string>
+    <string name="editarEmail">msalvezgimenez@gmail.com</string>
+    <string name="editarDescripcion">Soy un pibe divertido.</string>
+    <string name="editarDatos">Editar datos</string>
+</resources>
